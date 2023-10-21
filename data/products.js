@@ -656,5 +656,20 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "cffdcf6e-8cd3-4087-b96d-0c5e501656bf",
+    image: "images/products/cricket-bat.jpg",
+    name: "Gary nicolls cricket bat",
+    rating: 
+    {
+      stars: 5,
+      count: 510
+    },
+    priceCents: 30000,
+    keywords: [
+      "bat",
+      "cricket bat"
+    ] 
   }
 ];
