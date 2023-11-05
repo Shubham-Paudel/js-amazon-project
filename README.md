@@ -6,6 +6,4 @@ Self study
 
 2080(2023)
 
-Almost completed
 
-will comeplete later
